@@ -1,0 +1,6 @@
+{
+  "name": "SonicForge GH",
+  "description": "Collaborative, AI-assisted sound design tool for engineers. Gather, restore, and license mic recordings with MoMo and email payouts for Ghana.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
